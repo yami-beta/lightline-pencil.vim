@@ -1,3 +1,7 @@
+" File: lightline-pencil.vim
+" Description: lightline.vim theme for pencil colorscheme
+" Author: yami-beta
+" Source: https://github.com/yami-beta/lightline-pencil.vim
 
 let s:black      = [ '#262626', 235 ]
 let s:white      = [ '#e6e6e6', 254 ]
